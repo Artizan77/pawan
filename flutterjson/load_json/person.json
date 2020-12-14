@@ -1,0 +1,23 @@
+[{
+    "name": "Ahmet Sargın",
+    "age": "28",
+    "height" : "196",
+    "gender" : "male",
+    "hair_color" : "black"
+},
+{
+    "name": "Ömer Sargın",
+    "age": "1",
+    "height" : "70",
+    "gender" : "male",
+    "hair_color" : "blonde"
+},
+{
+    "name": "Adil Sargın",
+    "age": "28",
+    "height" : "196",
+    "gender" : "male",
+    "hair_color" : "black"
+}
+
+]
